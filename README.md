@@ -1,5 +1,10 @@
-﻿# Perfil de Atletas (Base6) – Python + Power BI
+# Atletas – Perfil con Python y Power BI
 
-Proyecto de análisis exploratorio y visualización del perfil de atletas
-a partir de la tabla `bios` (145.499 registros), usando Python/Pandas
-para limpieza y análisis, y Power BI para la construcción de un dashboard.
+Este proyecto analiza el perfil de 145 499 atletas a partir de la base `bios.csv`,
+combinando:
+
+- **Python / Jupyter / Pandas** para limpieza, transformación y visualizaciones
+  (distribuciones de estatura y peso, top países, perfil físico, años de nacimiento).
+- **Power BI** para construir un dashboard interactivo con medidas DAX de calidad
+  de datos, KPIs de cantidad de atletas y países, segmentaciones por rangos físicos
+  y análisis temporal por año y década de nacimiento.
